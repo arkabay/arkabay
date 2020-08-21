@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Akbar 👋</h1>
 <p align="center">A self-taught programmer based in Indonesia.</p>
 
-<br /><br /><br />
+<br />
+
+<p align="center"><i>"Keep learning, keep building."</i></p>
 
 <p align="center">
   <a href="https://github.com/arkabay/">
